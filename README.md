@@ -11,6 +11,8 @@ DistilBert_Experiment_Final.ipynb - Final large-scale DistilBERT training (Exper
 
 DQN_AGENT.ipynb - Deep Q-Network inventory optimisation agent
 
+sales_db_random.ipynb - Generate synthetic sales data.
+
 Dataset: https://doi.org/10.5281/zenodo.20573668
 
 Amazon Reviews source: https://amazon-reviews-2023.github.io
